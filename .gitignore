@@ -1,0 +1,14 @@
+# Arduino / IDE
+*.bak
+*.tmp
+.vscode/
+.idea/
+
+# Secrets
+.env
+secrets.h
+credentials.h
+
+# OS files
+.DS_Store
+Thumbs.db
